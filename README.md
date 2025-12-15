@@ -1,8 +1,103 @@
-## chrispusnjoroge15-
-A tiny description about me
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shezzen3030) 
+
+# Chrispus Njoroge  
+**Software Engineer | Applied Mathematics | AI Systems Architecture**
+
+Welcome to my GitHub.
+
+This profile documents my work on **mathematically grounded software systems** for **AI-enabled applications**, with an emphasis on **architecture, correctness, and scalability**.
+
+---
+
+## Background
+
+I am trained in **Mathematics and Computer Science** and work at the intersection of **theoretical foundations** and **production engineering**.
+
+My focus is on designing and implementing the **computational and mathematical layers** that underpin modern AI systems — from numerical methods and optimization pipelines to backend services and deployment infrastructure.
+
+I approach AI as a **systems problem**, not only a modeling exercise.
+
+---
+
+## Technical Scope
+
+### Systems & Languages
+- Python, C++, Java
+- Linux-based development
+- GPU-enabled computation
+- High-performance and systems-oriented design
+
+### AI & Mathematical Computing
+- Linear algebra and tensor computation
+- Optimization theory and gradient-based methods
+- Probabilistic modeling and statistical inference
+- Deep learning systems (architecture-level and training workflows)
+- Model evaluation, validation, and deployment pipelines
+
+### Architecture & Infrastructure
+- Backend services (FastAPI)
+- Containerized environments (Docker)
+- Structured data interchange (JSON and typed schemas)
+- Reproducible compute environments
+- Cloud / on-prem hybrid execution models
+
+---
+
+## Mathematical Orientation
+
+My engineering decisions are informed by:
+- Linear algebra and functional analysis
+- Discrete mathematics and algorithmic complexity
+- Optimization and numerical stability
+- Category-inspired modular design
+- Formal reasoning about invariants, interfaces, and constraints
+
+These abstractions guide how I manage complexity in large systems.
+
+---
+
+## Selected Interests
+
+- AI system architecture and technical strategy
+- Mathematical structure in machine learning
+- Scientific and data-intensive computing
+- Scaling research code into production systems
+- Building teams and systems that endure change
+
+---
+
+## Engineering & Research Philosophy
+
+> *Strong AI systems emerge from strong abstractions,  
+> disciplined mathematics, and reliable engineering.*
+
+I prioritize:
+- Explicit assumptions and well-defined interfaces
+- Reproducibility and verifiability
+- Clear separation of concerns
+- Long-term maintainability over fragile optimization
+
+---
+
+## What You’ll Find Here
+
+- Architecturally significant code
+- Algorithmic and mathematical explorations
+- Infrastructure for AI-driven systems
+- Reference implementations and design experiments
+- Clear documentation and intentional trade-offs
+
+---
+
+## Current Direction
+
+- AI system architecture and technical leadership
+- Mathematical foundations for scalable learning systems
+- Compute-efficient and reproducible pipelines
+- Translating research insights into deployable platforms
+
 
 # 💻 Tech Stack & Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
